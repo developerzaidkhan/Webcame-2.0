@@ -7,7 +7,7 @@ body {
     flex-direction: column; /* Arrange children vertically */
     justify-content: center; /* Center items vertically */
     align-items: center; /* Center items horizontally */
-    background-color: #f9f9f9; /* Optional background color */
+    background-color: #F4F6FF; /* Optional background color */
 }
 
 h1 {
